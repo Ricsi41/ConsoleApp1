@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Asd");
             int n = 30;
             int x = 1;
             int y = 1;
